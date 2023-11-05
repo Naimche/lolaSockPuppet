@@ -1,5 +1,5 @@
 - **Nombre:** Lola Pérez Romero
-- **Fecha de nacimiento:** 22 de marzo de 1994
+- **Fecha de nacimiento:** 3 de enero de 1994
 - **Nacionalidad:** Española (viviendo en los Países Bajos)
 - **Profesión:** Bióloga ambiental
 
