@@ -20,7 +20,7 @@ Lola tiene una foto de perfil en la que se le ve sonriendo durante una caminata 
 ## Redes sociales
 
 Lola tiene una cuenta de Twitter en la que sigue a organizaciones de conservación, científicos ambientales y cuentas de viajes con enfoque en la naturaleza. Comparte fotos de sus aventuras al aire libre, datos interesantes sobre la vida silvestre y artículos científicos relacionados con su campo de estudio.
-![[Pasted image 20231105222700.png]]
+![[img/Pasted image 20231105222700.png]]
 
 ## ¿Qué es un Sock Puppet?
 
@@ -53,8 +53,9 @@ Para mantener mi privacidad al crear mi Sock Puppet, utilicé una máquina virtu
 ## Capturas de pantalla de tu Sock Puppet en acción
 
 A continuación, puedes encontrar capturas de pantalla de mi Sock Puppet:
-
-![[Pasted image 20231105223352.png]]Muestra una publicación de Lola en Twitter sobre su última caminata en la naturaleza.
-![[Pasted image 20231105223454.png]]Muestra a Lola siguiendo cuentas de conservación de la vida silvestre y memes. No pude mostrar todos ya que twitter tarda en actualizarlos.
+![img2](https://github.com/Naimche/lolaSockPuppet/blob/main/img/Pasted%20image%2020231105222700.png)
+Muestra una publicación de Lola en Twitter sobre su última caminata en la naturaleza.
+![img1](https://github.com/Naimche/lolaSockPuppet/blob/main/img/Pasted%20image%2020231105223454.png) 
+Muestra a Lola siguiendo cuentas de conservación de la vida silvestre y memes. No pude mostrar todos ya que twitter tarda en actualizarlos.
 
 
