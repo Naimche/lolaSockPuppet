@@ -20,8 +20,7 @@ Lola tiene una foto de perfil en la que se le ve sonriendo durante una caminata 
 ## Redes sociales
 
 Lola tiene una cuenta de Twitter en la que sigue a organizaciones de conservación, científicos ambientales y cuentas de viajes con enfoque en la naturaleza. Comparte fotos de sus aventuras al aire libre, datos interesantes sobre la vida silvestre y artículos científicos relacionados con su campo de estudio.
-![[img/Pasted image 20231105222700.png]]
-
+https://twitter.com/LolitaPerez_94
 ## ¿Qué es un Sock Puppet?
 
 Un término "sockpuppet" se usa para describir un perfil falso que se crea en línea con el propósito de ocultar la verdadera identidad del usuario. Los sockpuppets se utilizan con frecuencia para engañar, manipular o influir en comunidades en línea de manera anónima o pseudónima. Pueden ser personas reales disfrazadas de personajes ficticios en redes sociales, foros o plataformas en línea.
