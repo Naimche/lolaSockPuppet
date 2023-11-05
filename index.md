@@ -32,9 +32,9 @@ Los sock puppets se pueden usar para una variedad de propósitos, algunos de los
 
 - **Investigación:** Los Sock Puppets se crearon con fines de investigación en ciberseguridad y análisis de amenazas para estudiar cómo se pueden utilizar para identificar vulnerabilidades y amenazas en línea.
 
-- Publicidad y publicidad: Las empresas pueden usar Sock Puppets para publicitar sus bienes o servicios de manera encubierta, pero esto debe hacerse de manera ética y transparente.
+- **Publicidad y publicidad:** Las empresas pueden usar Sock Puppets para publicitar sus bienes o servicios de manera encubierta, pero esto debe hacerse de manera ética y transparente.
 
-- **Influencia en la percepción pública: En ocasiones, los sock puppets se utilizan para manipular las discusiones políticas, debates y opiniones en línea de manera encubierta.
+- **Influencia en la percepción pública:** En ocasiones, los sock puppets se utilizan para manipular las discusiones políticas, debates y opiniones en línea de manera encubierta.
 
 - **Fraude en línea:** En ocasiones, los Sock Puppets se utilizan para cometer fraudes en línea, como reseñas falsas de productos o servicios.
 
